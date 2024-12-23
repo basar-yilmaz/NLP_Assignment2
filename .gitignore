@@ -1,3 +1,6 @@
 latex/
 test/
 train/
+.idea/
+logs/
+data/
